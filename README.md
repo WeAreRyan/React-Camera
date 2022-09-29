@@ -1,3 +1,3 @@
 # React Camera
 
-A local camera widget 
+A local camera component 
